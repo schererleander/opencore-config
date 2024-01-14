@@ -1,7 +1,7 @@
 # opencore
 ![screenshot](./.assets/screenshot.png)
 
-Welcome to my personal OpenCore configuration repository! This setup is tailored for the following hardware specifications:
+My personal opencore configuration repository! This setup is tailored for the following hardware specifications:
 ## Specs:
 - *CPU*: Intel i5-8400 Coffe Lake
 - *GPU*: Asus ROG Strix-RX580-O8G-Gaming
