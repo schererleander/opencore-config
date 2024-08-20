@@ -1,5 +1,5 @@
 # opencore
-![screenshot](./.assets/screenshot.png)
+![screenshot](screenshot.png)
 
 My personal opencore configuration repository for my old hackintosh! This setup is tailored for the following hardware specifications:
 ## Specs:
@@ -17,5 +17,5 @@ My personal opencore configuration repository for my old hackintosh! This setup 
 - Boot GUI
 
 ### Not working:
-- Boot Chime (Not a priority) 
+- Boot Chime (Not a priority)
 - Security Features: FileVault and Apple Secure Boot aren't enabled. However, i dont need these features.
